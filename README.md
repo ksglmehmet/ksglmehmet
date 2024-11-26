@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Building automation tools with Python, exploring data science, and creating innovative projects.<br>I’m looking to collaborate on: Open-source projects related to machine learning, web scraping.<br>I’m looking for help with: Optimizing algorithms and improving code efficiency for large datasets.<br>I’m currently learning: Advanced data visualization techniques and cloud-based machine learning platforms.<br>Ask me about: Python, data analysis, and web scraping.<br>Fun fact: I turn coffee into code and have a knack for automating repetitive tasks!
+I’m currently working on Building automation tools with Python, exploring data science, and creating innovative projects.<br>I’m looking to collaborate on Open-source projects related to machine learning, web scraping.<br>I’m looking for help with: Optimizing algorithms and improving code efficiency for large datasets.<br>I’m currently learning Advanced data visualization techniques and cloud-based machine learning platforms.<br>Ask me about Python, data analysis, and web scraping.<br>Fun fact I turn coffee into code and have a knack for automating repetitive tasks!
 
 
 ## 🌐 Socials:
